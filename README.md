@@ -87,11 +87,18 @@ Les projets open source contiennent des historiques de développement complets, 
 ##  📊 <span style="color:#CB4335;font-family:serif; font-size:32px;"> Visualisation de données
 </span>
 
-* apres l'analyser nous avons constate que les personnes que a fait le plus nomber de pull et nomber de modification sur les fichiers se sont les personners qui a ete les plus implique sur le projet dans noter analyser  les des personners sont<mark>xeno-by</mark> et <mark>soc</mark> <br>
+* l'analyse montre qu'il y a peu de personnes qui ne contribuent qu'à un petit nombre de pull requests peut être utilisée comme un indicateur que le projet n'est pas accueillant pour les nouveaux contributeurs.
+  
+    <img src='dynamic.PNG'/>
+
+<br/>
+
+* apres l'analyser nous avons constate que les personnes que a fait le plus nomber de pull et nomber de modification sur les fichiers se sont les personners qui a ete les plus implique sur le projet dans noter analyser  les des personners sont <mark> xeno-by</mark> et <mark>soc</mark> <br>
   <br/>
 * Pour faire une distinction entre les niveaux d'expertise et de contribution globaux et les niveaux de contribution à un niveau plus granulaire (fichier, sous-module, etc.) Dans notre cas, nous voulons voir lequel de nos deux développeurs d'intérêt a le plus d'expérience avec le code d'un fichier donné. Nous mesurerons l'expérience par le nombre de pull requests soumises qui affectent ce fichier et la date à laquelle ces pull requests ont été soumises
-et apres l'analyser on constate que <mark>xeno-by</mark> a eu le plus d'influence sur le  développement de scala et qui a  les puls experts.
+et apres l'analyser on constate que <mark>xeno-by</mark> a eu le plus d'influence sur le  développement de scala et qui a  les puls d'experience.
 
+  <img src='fin.PNG'/>
 
  # <span style="color:#CB4335;font-family:serif; font-size:32px;"> MERCI  🥰
 </span>
