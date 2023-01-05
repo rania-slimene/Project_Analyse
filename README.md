@@ -56,6 +56,16 @@
 </span>
 Les projets open source contiennent des historiques de développement complets, tels que les personnes qui ont apporté des modifications, les modifications elles-mêmes et les revues de code. Dans ce projet, vous devrez lire, nettoyer et visualiser le référentiel d'un projet Scala réel, qui comprend des données provenant d'un système de contrôle de version (Git) et d'un site d'hébergement de projets (GitHub). Avec près de 30 000 commits et une histoire qui s'étend sur plus de dix ans, Scala est un langage mature. Vous découvrirez qui a eu le plus d'influence sur son développement et qui sont les experts.
 
+
+## :star2: <span style="color:#CB4335;font-family:serif; font-size:32px;">les Objetifs du projet
+</span>
+  
+  * les project open source qui a ete publier dans le gitHub a ce que toujours    activement maintenu  .
+
+  * les project  a ce que accueillant les nouveaux contributeurs.
+  * qu'elle sont les experts.
+
+
 ## :hammer_and_wrench:<span style="color:#CB4335;font-family:serif; font-size:32px;"> Prérequis
 </span>
  
